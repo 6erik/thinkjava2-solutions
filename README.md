@@ -1,1 +1,1 @@
-# thinkjava2_solns
+# thinkjava2-solutions
